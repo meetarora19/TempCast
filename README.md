@@ -18,5 +18,5 @@ This project predicts future events using multimodal data (text + images) and te
 - AWS EC2
 
 ## Run
-pip install -r requirements.txt
-python app.py
+- pip install -r requirements.txt
+- python app.py
