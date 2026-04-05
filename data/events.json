@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "event": "Leaders from two countries meet and shake hands during a diplomatic event",
+    "image": "images/1.jpg",
+    "image_hint": "diplomatic meeting, handshake, political leaders",
+    "type": "highlighting",
+    "expected_next_event": "Countries sign a bilateral agreement or strengthen diplomatic relations",
+    "timestamp": "2020-02-01"
+  },
+  {
+    "id": 2,
+    "event": "Large-scale public protest erupts in a major city with people marching on the streets",
+    "image": "images/2.jpg",
+    "image_hint": "crowd protest, political unrest, demonstration",
+    "type": "highlighting",
+    "expected_next_event": "Government responds with policy changes or imposes restrictions",
+    "timestamp": "2021-06-15"
+  },
+  {
+    "id": 3,
+    "event": "Armed forces engage in a violent clash in a mountainous region",
+    "image": "images/3.jpg",
+    "image_hint": "military conflict, armed soldiers, violent confrontation",
+    "type": "highlighting",
+    "expected_next_event": "Escalation of conflict or international intervention",
+    "timestamp": "2019-09-10"
+  },
+  {
+    "id": 4,
+    "event": "Severe flooding affects a residential area, damaging vehicles and infrastructure",
+    "image": "images/4.jpg",
+    "image_hint": "natural disaster, flood, destruction",
+    "type": "complementary",
+    "expected_next_event": "Emergency response and humanitarian aid deployment",
+    "timestamp": "2022-11-05"
+  },
+  {
+    "id": 5,
+    "event": "People stand in long queues outside a bank or ATM in an urban area",
+    "image": "images/5.jpg",
+    "image_hint": "economic stress, banking issue, public waiting",
+    "type": "complementary",
+    "expected_next_event": "Financial policy changes or cash shortage crisis response",
+    "timestamp": "2018-12-20"
+  },
+  {
+    "id": 6,
+    "event": "Cyclone Fani makes landfall in Odisha causing widespread destruction and power outages",
+    "image": "images/6.jpg",
+    "image_hint": "cyclone, strong winds, coastal damage",
+    "type": "highlighting",
+    "expected_next_event": "Emergency response teams deployed and evacuation measures intensified",
+    "timestamp": "2019-05-03"
+  },
+  {
+    "id": 7,
+    "event": "Pulwama terror attack kills Indian security personnel in Jammu and Kashmir",
+    "image": "images/7.jpg",
+    "image_hint": "military convoy attack, explosion, security forces",
+    "type": "highlighting",
+    "expected_next_event": "India conducts retaliatory airstrikes leading to heightened tensions",
+    "timestamp": "2019-02-14"
+  },
+  {
+    "id": 8,
+    "event": "Nationwide lockdown imposed in India due to COVID-19 pandemic",
+    "image": "images/8.jpg",
+    "image_hint": "empty roads, lockdown, pandemic",
+    "type": "highlighting",
+    "expected_next_event": "Economic slowdown and migrant crisis intensifies",
+    "timestamp": "2020-03-24"
+  },
+  {
+    "id": 9,
+    "event": "Cyclone Amphan hits West Bengal causing severe damage and flooding",
+    "image": "images/9.jpg",
+    "image_hint": "cyclone damage, flooded streets, broken houses",
+    "type": "highlighting",
+    "expected_next_event": "Relief operations and infrastructure repair initiated",
+    "timestamp": "2020-05-20"
+  },
+  {
+    "id": 10,
+    "event": "Farmers protest intensifies at Delhi borders against new agricultural laws",
+    "image": "images/10.jpg",
+    "image_hint": "protest, tractors, large crowd",
+    "type": "highlighting",
+    "expected_next_event": "Government engages in negotiations and policy revisions",
+    "timestamp": "2021-01-26"
+  },
+  {
+    "id": 11,
+    "event": "Second wave of COVID-19 overwhelms healthcare system in India",
+    "image": "images/11.jpg",
+    "image_hint": "hospital overcrowding, oxygen shortage",
+    "type": "highlighting",
+    "expected_next_event": "Emergency medical infrastructure expansion and global aid support",
+    "timestamp": "2021-04-20"
+  },
+  {
+    "id": 12,
+    "event": "Cyclone Tauktae hits western coast of India causing fatalities and infrastructure damage",
+    "image": "images/12.jpg",
+    "image_hint": "cyclone winds, coastal damage",
+    "type": "highlighting",
+    "expected_next_event": "Rescue operations and power restoration efforts begin",
+    "timestamp": "2021-05-17"
+  },
+  {
+    "id": 13,
+    "event": "Massive heatwave affects northern India with record-breaking temperatures",
+    "image": "images/13.jpg",
+    "image_hint": "extreme heat, dry land, sun",
+    "type": "complementary",
+    "expected_next_event": "Water shortages and health advisories issued",
+    "timestamp": "2022-04-15"
+  },
+  {
+    "id": 14,
+    "event": "Morbi bridge collapse in Gujarat results in multiple casualties",
+    "image": "images/14.jpg",
+    "image_hint": "bridge collapse, rescue operation",
+    "type": "highlighting",
+    "expected_next_event": "Investigation launched and safety regulations tightened",
+    "timestamp": "2022-10-30"
+  },
+  {
+    "id": 15,
+    "event": "Severe air pollution in Delhi reaches hazardous levels during winter",
+    "image": "images/15.jpg",
+    "image_hint": "smog, pollution, city skyline",
+    "type": "complementary",
+    "expected_next_event": "Government imposes restrictions on traffic and construction",
+    "timestamp": "2022-11-10"
+  }
+]
