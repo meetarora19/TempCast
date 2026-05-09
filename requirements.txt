@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pillow
+numpy
+faiss-cpu
+transformers
+sentence-transformers
